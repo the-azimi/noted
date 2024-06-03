@@ -26,6 +26,8 @@
 
 <strong>Zod:</strong> Type-safe validation for data integrity and better developer experience.
 
+<strong>EdgeStore:</strong> For file upload.
+
 <strong>Shadcn/UI:</strong> Beautifully designed and customizable UI components to enhance your app's look and feel.
 
 <h2>Who is Noted for?</h2>
