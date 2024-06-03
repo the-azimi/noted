@@ -4,15 +4,15 @@
 
 <h2>Key Features</h2>
 
-<strong>Effortless Note Creation:</strong> <p>Quickly create new notes with text, images, checklists, and more.</p>
+<strong>Effortless Note Creation:</strong> Quickly create new notes with text, images, checklists, and more.
 
-<strong>Intuitive Organization:</strong> <p>Organize your notes into notebooks and folders for easy access.</p>
+<strong>Intuitive Organization:</strong> Organize your notes into notebooks and folders for easy access.
 
-<strong>Powerful Search:</strong> <p>Find any note instantly with our robust search capabilities.</p>
+<strong>Powerful Search:</strong> Find any note instantly with our robust search capabilities.
 
-<strong>Flexible Formatting:</strong> <p>Customize your notes with different fonts, colors, and styles.</p>
+<strong>Flexible Formatting:</strong> Customize your notes with different fonts, colors, and styles.
 
-<strong>Offline Access:</strong> <p>Access and edit your notes even when you're offline.</p>
+<strong>Offline Access:</strong> Access and edit your notes even when you're offline.
 
 <h2>Tech Stack</h2>
 
